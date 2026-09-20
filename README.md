@@ -16,6 +16,7 @@ I also have experience working with WordPress and computer networking.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 
 ### Currently Learning
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -57,6 +58,7 @@ More projects coming soon...
 - 🎓 Computer Engineering Graduate
 - 🌐 Frontend Development
 - 🧩 WordPress Development
+- 🖥️ ASP.NET Web Forms Development
 - 🖥️ Computer Networking
 - 💻 Web Development
 
